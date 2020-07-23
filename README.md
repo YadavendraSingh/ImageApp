@@ -13,4 +13,4 @@ Unit testing
 
 Supports infinite scroll.
 
-![search movie](https://github.com/YadavendraSingh/ImageApp/blob/master/Screenshot_20200723-124015.png)
+<img src="https://github.com/YadavendraSingh/ImageApp/blob/master/Screenshot_20200723-124015.png" height="640" width="360">
